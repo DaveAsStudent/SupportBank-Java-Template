@@ -1,3 +1,3 @@
 # SupportBank-Java-Template
 
-Template Maven command-line app for the SupportBank exercise
+DaveAsStudent's copy of  Maven command-line app for the SupportBank exercise
